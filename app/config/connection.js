@@ -10,16 +10,16 @@ var source = {
     localhost: {
         port: 3306,
         host: 'localhost',
-        user: 'root',
-        password: "sector001",
-        database: "starwars"
+        user: 'm3jhaiifn50cvyni',
+        password: "x9y8zgizwm2uhmu9",
+        database: "qe10flu5xgw5h5sr"
     },
     jawsDB: {
         port: 3306,
         host: 'l3855uft9zao23e2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         user: 'm3jhaiifn50cvyni',
         password: "x9y8zgizwm2uhmu9",
-        database: "starwars"
+        database: "qe10flu5xgw5h5sr"
         // TODO: Add your JawsDB connection info here
     }
 }
